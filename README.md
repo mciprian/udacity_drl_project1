@@ -1,4 +1,4 @@
-# Solution to Udacity - Deep Reinforment Learnin Project 1: Navigation
+# Solution to Udacity - Deep Reinforcement Learning Project 1: Navigation
 
 This repository contains the solution that I have proposed to the Navigation project, which is based on the material presented in the DQN lesson. The repository consists of the following files:
 - **Navigation.ipynb:** Notebook that contains the adaptation of the DQN Agent to solve the proposed problem.
